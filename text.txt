@@ -1,0 +1,4 @@
+trigger
+s
+x
+f
