@@ -6,7 +6,7 @@ int x = 0;
 int main(){
 	for(x=0;x<10;x++)
 {
-	cout<<x;
+	cout<<x<<endl;
 }
 	return 0;
 }
